@@ -1,0 +1,4 @@
+ollama
+pypdf
+faiss-cpu
+streamlit
